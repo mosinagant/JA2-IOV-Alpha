@@ -1,4 +1,4 @@
-JA2-IOV-Alpha
+JA2-IOV-Alpha (Please feel free to edit and post advice.)
 =============
 
 Adapt IOV to JA2-1.13 Project
