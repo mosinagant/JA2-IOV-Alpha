@@ -20851,14 +20851,6 @@
 		<szBRDesc>将任何型号SCAR转换成10英寸枪管的7.62x39mm口径SCAR-WP近战型。</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2606</uiIndex>
-		<szItemName>SCAR-WP con. kit</szItemName>
-		<szLongItemName>SCAR-WP STD转换套件</szLongItemName>
-		<szItemDesc>将任何型号SCAR转换成16英寸枪管的7.62x39mm口径SCAR-WP标准型。</szItemDesc>
-		<szBRName>SCAR-WP STD con.kit</szBRName>
-		<szBRDesc>将任何型号SCAR转换成16英寸枪管的7.62x39mm口径SCAR-WP标准型。</szBRDesc>
-	</ITEM>
-	<ITEM>
 		<uiIndex>2607</uiIndex>
 		<szItemName>G.P. Tripod</szItemName>
 		<szLongItemName>通用三脚架</szLongItemName>
@@ -21811,7 +21803,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2729</uiIndex>
+		<uiIndex>2726</uiIndex>
 		<szItemName>Mk16 Mod1 CQC</szItemName>
 		<szLongItemName>Mk16 Mod 1 CQC (&lt;)</szLongItemName>
 		<szItemDesc>FNH SCAR-L近战型(10英寸枪管)。这种型号发射6.8mm特种用途弹。</szItemDesc>
@@ -21819,7 +21811,7 @@
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 	</ITEM>
 	<ITEM>
-		<uiIndex>2728</uiIndex>
+		<uiIndex>2727</uiIndex>
 		<szItemName>Mk16 Mod1 STD</szItemName>
 		<szLongItemName>Mk16 Mod 1 STD (&lt;)</szLongItemName>
 		<szItemDesc>FNH SCAR-L 标准型(16英寸)。这种型号发射6.8mm特种用途弹。</szItemDesc>
