@@ -84937,4 +84937,9 @@
 		<itemIndex>1682</itemIndex>
 		<APCost>20</APCost>
 	</ATTACHMENT>
+	<ATTACHMENT>
+		<attachmentIndex>3106</attachmentIndex>
+		<itemIndex>3105</itemIndex>
+		<APCost>35</APCost>
+	</ATTACHMENT>
 </ATTACHMENTLIST>
