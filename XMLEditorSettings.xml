@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Settings>
+    <Name>Data-IoV:_Items_Height</Name>
+    <Value>606</Value>
+  </Settings>
+  <Settings>
+    <Name>Data-IoV:_Items_Width</Name>
+    <Value>1316</Value>
+  </Settings>
+  <Settings>
+    <Name>Data-IoV:_Items_Top</Name>
+    <Value>0</Value>
+  </Settings>
+  <Settings>
+    <Name>Data-IoV:_Items_Left</Name>
+    <Value>0</Value>
+  </Settings>
+  <Settings>
+    <Name>Data-IoV:_Items_WindowState</Name>
+    <Value>0</Value>
+  </Settings>
+  <Settings>
+    <Name>Data-IoV:_Items_OpenedBefore</Name>
+    <Value>True</Value>
+  </Settings>
+</DocumentElement>
