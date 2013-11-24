@@ -58490,13 +58490,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>1837</uiIndex>
-		<szItemName>TL Handguard</szItemName>
+		<szItemName>TL Handguard OFF</szItemName>
 		<szLongItemName>Tactical Light Handguard</szLongItemName>
 		<szItemDesc>This tactical light handguard can be installed in some SMG, short rifles or shotgun, it make by SureFire.</szItemDesc>
 		<szBRName>Tactical Light Handguard</szBRName>
 		<szBRDesc>This tactical light handguard can be installed in some SMG, short rifles or shotgun, it make by SureFire.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>4609</nasAttachmentClass>
+		<nasAttachmentClass>4096</nasAttachmentClass>
+		<AttachmentClass>4609</AttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>336</ubGraphicNum>
@@ -82672,13 +82673,14 @@
 	</ITEM>
 	<ITEM>
 		<uiIndex>2651</uiIndex>
-		<szItemName>TL Handguard</szItemName>
+		<szItemName>TL Handguard ON</szItemName>
 		<szLongItemName>Tactical Light Handguard (light on)</szLongItemName>
 		<szItemDesc>This tactical light handguard can be installed in some SMG, short rifles or shotgun, it make by SureFire. Flashlight is ON.</szItemDesc>
 		<szBRName>Tactical Light Handguard</szBRName>
 		<szBRDesc>Not for sale through BR.</szBRDesc>
 		<usItemClass>268435456</usItemClass>
-		<nasAttachmentClass>4609</nasAttachmentClass>
+		<nasAttachmentClass>4096</nasAttachmentClass>
+		<AttachmentClass>4609</AttachmentClass>
 		<nasLayoutClass>1</nasLayoutClass>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>336</ubGraphicNum>
