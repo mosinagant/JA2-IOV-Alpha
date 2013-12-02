@@ -59068,7 +59068,8 @@
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
-		<ubGraphicNum>341</ubGraphicNum>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>335</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>31</ItemSize>
@@ -82106,7 +82107,7 @@
 		<szBRDesc>This 255-round magazine contains 4.7mm caseless ammunition for HK LMG11 caseless machinegun.</szBRDesc>
 		<usItemClass>1024</usItemClass>
 		<nasLayoutClass>1</nasLayoutClass>
-		<ubClassIndex>364</ubClassIndex>
+		<ubClassIndex>879</ubClassIndex>
 		<ubGraphicType>1</ubGraphicType>
 		<ubGraphicNum>882</ubGraphicNum>
 		<ubWeight>21</ubWeight>
@@ -82834,7 +82835,8 @@
 		<usItemClass>268435456</usItemClass>
 		<AttachmentClass>4</AttachmentClass>
 		<nasAttachmentClass>4</nasAttachmentClass>
-		<ubGraphicNum>341</ubGraphicNum>
+		<ubGraphicType>1</ubGraphicType>
+		<ubGraphicNum>335</ubGraphicNum>
 		<ubWeight>4</ubWeight>
 		<ubPerPocket>2</ubPerPocket>
 		<ItemSize>31</ItemSize>
