@@ -8674,7 +8674,7 @@
 		<ubGraphicNum>173</ubGraphicNum>
 		<ubWeight>2</ubWeight>
 		<ubPerPocket>1</ubPerPocket>
-		<ItemSize>28</ItemSize>
+		<ItemSize>27</ItemSize>
 		<usPrice>100</usPrice>
 		<ubCoolness>3</ubCoolness>
 		<bReliability>2</bReliability>
@@ -54377,7 +54377,7 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>454</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ItemSize>32</ItemSize>
+		<ItemSize>50</ItemSize>
 		<usPrice>45</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>1</bRepairEase>
@@ -54405,7 +54405,7 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>456</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ItemSize>32</ItemSize>
+		<ItemSize>50</ItemSize>
 		<usPrice>40</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>1</bRepairEase>
@@ -60838,7 +60838,7 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>148</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ItemSize>32</ItemSize>
+		<ItemSize>58</ItemSize>
 		<usPrice>35</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>1</bRepairEase>
@@ -69343,7 +69343,7 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>149</ubGraphicNum>
 		<ubWeight>2</ubWeight>
-		<ItemSize>32</ItemSize>
+		<ItemSize>58</ItemSize>
 		<usPrice>80</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>1</bRepairEase>
@@ -71267,7 +71267,7 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>150</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ItemSize>32</ItemSize>
+		<ItemSize>50</ItemSize>
 		<usPrice>60</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>1</bRepairEase>
@@ -71295,7 +71295,7 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>457</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ItemSize>32</ItemSize>
+		<ItemSize>50</ItemSize>
 		<usPrice>45</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>1</bRepairEase>
@@ -71323,7 +71323,7 @@
 		<ubGraphicType>2</ubGraphicType>
 		<ubGraphicNum>458</ubGraphicNum>
 		<ubWeight>1</ubWeight>
-		<ItemSize>32</ItemSize>
+		<ItemSize>50</ItemSize>
 		<usPrice>40</usPrice>
 		<ubCoolness>5</ubCoolness>
 		<bRepairEase>1</bRepairEase>
